@@ -1,3 +1,5 @@
+#### Experiment number: 03
+#### Date:
 # SIMULATION AND IMPLEMENTATION OF MULTIPLIER
 ## AIM:
  To simulate and synthesis multiplier using Xilinx ISE.
